@@ -1,12 +1,9 @@
 #gPalestra
 
-'** Este programa poderá ser reutilizado para qualquer fim não lucrativo      **'
-'** Favor, citar autores: Cristiano Cardoso, Marcos Moura, Márcia Andréa e    **'
-'***                                                                         ***'
+*Este programa poderá ser reutilizado para qualquer fim não lucrativo*
+*Favor, citar autores: Cristiano Cardoso, Marcos Moura, Márcia Andréa e*
 
 ####0. ATENÇÃO####
-
-
 
 ####1. Como usar####
 ! No terminal de sua máquina, use a seguinte sintaxe:
